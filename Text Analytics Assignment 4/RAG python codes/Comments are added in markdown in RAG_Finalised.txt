@@ -1,0 +1,2 @@
+Comments are added in RAG_FINALISED.ipynb
+open markdown before each cell to see detailed explaination of each cell
